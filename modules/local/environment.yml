@@ -1,0 +1,11 @@
+name: example_environment
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.8.3
+  - git
+  - pip
+  - pip:
+    - git+https://github.com/pyjokes/pyjokes@6ad9b6f05affd0598df8b61ae6b92dfcec73470e
