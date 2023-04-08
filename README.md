@@ -10,7 +10,7 @@
 
 ## Template instructions:
 
-This template is designed to be a stripped down version of the nf-core template. It is intended as an intermediate-level template with some of the more advanced features of the nf-core template removed and certain files consolidated. It is intended to be used as a starting point for creating a new pipeline. You can read more about this template in my blog post.
+This template is designed to be a stripped down version of the nf-core template. It is intended as an intermediate-level template with some of the more advanced features of the nf-core template removed and certain files consolidated. It is intended to be used as a starting point for creating a new pipeline. You can read more about this template in my blog post [here](https://kenbrewer.com/2023-04-07-simple-nextflow-template/).
 
 ### Template Naming
 - [ ] Replace all instances of `simplenextflow` with the name of your pipeline
